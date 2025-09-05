@@ -1,0 +1,6 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "git.ignoreLimitWarning": true,
+    "cmake.sourceDirectory": "C:/Users/Sarvesh/Desktop/SAFAR/safar/lib/flutter/dev/manual_tests/linux"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">601988865276</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoiS2agHE1Gy8NVFcsjxAO5BhJPjPqkwM</string>
+    <string name="google_app_id" translatable="false">1:601988865276:android:de0232646f987c2315cb79</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoiS2agHE1Gy8NVFcsjxAO5BhJPjPqkwM</string>
+    <string name="google_storage_bucket" translatable="false">safar-ticketing.appspot.com</string>
+    <string name="project_id" translatable="false">safar-ticketing</string>
+</resources>

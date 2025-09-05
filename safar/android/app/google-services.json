@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601988865276",
+    "project_id": "safar-ticketing",
+    "storage_bucket": "safar-ticketing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601988865276:android:de0232646f987c2315cb79",
+        "android_client_info": {
+          "package_name": "com.safar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiS2agHE1Gy8NVFcsjxAO5BhJPjPqkwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
